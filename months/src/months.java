@@ -45,7 +45,8 @@ public class months{
             case 12 :
                 System.out.println("December");
                 break;
-
+            default:
+                break;
         }
     }
 }
