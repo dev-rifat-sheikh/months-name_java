@@ -46,7 +46,6 @@ public class months{
                 System.out.println("December");
                 break;
             default:
-                break;
         }
     }
 }
